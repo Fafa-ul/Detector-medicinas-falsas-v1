@@ -1,0 +1,5 @@
+streamlit
+Orange3
+numpy
+pytesseract
+Pillow
