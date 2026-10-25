@@ -1,5 +1,5 @@
-streamlit
-Orange3
-numpy
-pytesseract
-Pillow
+   streamlit
+   Orange3==3.40.0
+   numpy
+   pytesseract
+   Pillow
